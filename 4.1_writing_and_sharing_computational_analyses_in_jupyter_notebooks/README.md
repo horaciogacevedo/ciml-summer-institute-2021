@@ -160,6 +160,8 @@ Expand the Binder Badge section at the bottom and copy the Markdown (first box).
 
 Paste the Markdown for the Binder Badge into the README.md file (find placeholder).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/horaciogacevedo/ciml-summer-institute-2021.git/HEAD)
+
 **4. Commit changes to your README.md file
 To save the README.md file, go to the bottom, enter a comment and click `Commit changes`.
 
